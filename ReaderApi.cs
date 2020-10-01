@@ -5,7 +5,7 @@ namespace DanteWillDie {
     /// <summary>
     /// ProcessMemoryReader is a class that enables direct reading a process memory
     /// </summary>
-    class ProcessMemoryReaderApi {
+    class ReaderApi {
         // constants information can be found in <winnt.h>
         [Flags]
         public enum ProcessAccessType {
