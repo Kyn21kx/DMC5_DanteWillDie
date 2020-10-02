@@ -1,20 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programming\\C#\\DanteWillDie\\DanteWillDie.csproj": {}
+    "X:\\Programming\\C#\\DanteWillDie\\DMC5_DanteWillDie\\DanteWillDie.csproj": {}
   },
   "projects": {
-    "D:\\Programming\\C#\\DanteWillDie\\DanteWillDie.csproj": {
+    "X:\\Programming\\C#\\DanteWillDie\\DMC5_DanteWillDie\\DanteWillDie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programming\\C#\\DanteWillDie\\DanteWillDie.csproj",
+        "projectUniqueName": "X:\\Programming\\C#\\DanteWillDie\\DMC5_DanteWillDie\\DanteWillDie.csproj",
         "projectName": "DanteWillDie",
-        "projectPath": "D:\\Programming\\C#\\DanteWillDie\\DanteWillDie.csproj",
+        "projectPath": "X:\\Programming\\C#\\DanteWillDie\\DMC5_DanteWillDie\\DanteWillDie.csproj",
         "packagesPath": "C:\\Users\\nef-e\\.nuget\\packages\\",
-        "outputPath": "D:\\Programming\\C#\\DanteWillDie\\obj\\",
+        "outputPath": "X:\\Programming\\C#\\DanteWillDie\\DMC5_DanteWillDie\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\nef-e\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -56,7 +57,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

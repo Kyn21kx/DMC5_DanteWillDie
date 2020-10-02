@@ -1,0 +1,13 @@
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\bin\Debug\netcoreapp3.1\DanteWillDie.exe
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\bin\Debug\netcoreapp3.1\DanteWillDie.deps.json
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\bin\Debug\netcoreapp3.1\DanteWillDie.runtimeconfig.json
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\bin\Debug\netcoreapp3.1\DanteWillDie.runtimeconfig.dev.json
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\bin\Debug\netcoreapp3.1\DanteWillDie.dll
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\bin\Debug\netcoreapp3.1\DanteWillDie.pdb
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\obj\Debug\netcoreapp3.1\DanteWillDie.csprojAssemblyReference.cache
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\obj\Debug\netcoreapp3.1\DanteWillDie.csproj.CoreCompileInputs.cache
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\obj\Debug\netcoreapp3.1\DanteWillDie.AssemblyInfoInputs.cache
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\obj\Debug\netcoreapp3.1\DanteWillDie.AssemblyInfo.cs
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\obj\Debug\netcoreapp3.1\DanteWillDie.dll
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\obj\Debug\netcoreapp3.1\DanteWillDie.pdb
+X:\Programming\C#\DanteWillDie\DMC5_DanteWillDie\obj\Debug\netcoreapp3.1\DanteWillDie.genruntimeconfig.cache
